@@ -31,6 +31,9 @@
 - 資料庫連結   14 天
 - 系統測試除錯 5  天
 
+![burndown](https://cloud.githubusercontent.com/assets/11185830/7487188/f00021b6-f3e4-11e4-9f12-5bfe128f34f4.png)
+
+
 **優先性**
 
 網頁內容編排
