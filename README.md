@@ -55,8 +55,6 @@
   修改錯誤
 
 
-![burndown](https://cloud.githubusercontent.com/assets/11185830/7487188/f00021b6-f3e4-11e4-9f12-5bfe128f34f4.png)
-
 ![burndown chart](https://cloud.githubusercontent.com/assets/11185830/8073883/989ec32a-0f5d-11e5-8a7e-98bc51c97661.png)
 
 **優先性**
